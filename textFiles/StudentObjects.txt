@@ -1,0 +1,1275 @@
+Abbot Ben Holiday
+Age: 26
+Gender: M
+Street address: 584 Neutron
+City: Boon
+State: AR
+Zip code: 75502
+Phone number: 3703826586
+University: George Mason University
+Student ID: #21009875YQ
+Credits Enrolled: 12
+In-state: false
+Late fee assessed: false
+Food option: A
+Has health care: true
+
+
+Abraham George Sheperd
+Age: 21
+Gender: M
+Street address: 2858 Electron
+City: Rockland
+State: RI
+Zip code: 02841
+Phone number: 9951417163
+University: University of Virginia
+Student ID: #49928006AU
+Credits Enrolled: 20
+In-state: true
+Late fee assessed: false
+Food option: B
+Has health care: true
+
+
+Ada Charlene Einstein
+Age: 20
+Gender: F
+Street address: 3081 Fender
+City: Seoul
+State: CT
+Zip code: 06491
+Phone number: 3028434744
+University: Oklahoma State University
+Student ID: #65094477MF
+Credits Enrolled: 16
+In-state: true
+Late fee assessed: true
+Food option: D
+Has health care: true
+
+
+Ada Rose Harrison
+Age: 18
+Gender: F
+Street address: 1865 King
+City: London
+State: VA
+Zip code: 20042
+Phone number: 8221470128
+University: University of Wyoming
+Student ID: #25040804IA
+Credits Enrolled: 5
+In-state: true
+Late fee assessed: true
+Food option: C
+Has health care: false
+
+
+Andy Fred Williams
+Age: 20
+Gender: M
+Street address: 3868 Gibson
+City: Freetown
+State: TN
+Zip code: 38328
+Phone number: 1128746194
+University: University of California Berkeley
+Student ID: #08253012WN
+Credits Enrolled: 20
+In-state: false
+Late fee assessed: true
+Food option: D
+Has health care: false
+
+
+Andy Joshua Draper
+Age: 16
+Gender: M
+Street address: 344 Wall
+City: Hicksville
+State: ID
+Zip code: 83795
+Phone number: 4014500637
+University: Brigham Young University
+Student ID: #36019240OR
+Credits Enrolled: 11
+In-state: false
+Late fee assessed: false
+Food option: A
+Has health care: true
+
+
+Ariana Rita Erp
+Age: 16
+Gender: F
+Street address: 3030 Justice
+City: Freetown
+State: DE
+Zip code: 19919
+Phone number: 1166988227
+University: George Mason University
+Student ID: #60875712CQ
+Credits Enrolled: 6
+In-state: true
+Late fee assessed: false
+Food option: B
+Has health care: true
+
+
+Bart Aloysius Lincoln
+Age: 19
+Gender: M
+Street address: 3895 River
+City: Mountain View
+State: ND
+Zip code: 58138
+Phone number: 4244960202
+University: Harvard College
+Student ID: #91044090YW
+Credits Enrolled: 7
+In-state: true
+Late fee assessed: false
+Food option: A
+Has health care: false
+
+
+Belle Cathy Poe
+Age: 18
+Gender: F
+Street address: 1112 Forth
+City: Dale
+State: WV
+Zip code: 26620
+Phone number: 9122221554
+University: George Mason University
+Student ID: #23074861RM
+Credits Enrolled: 15
+In-state: false
+Late fee assessed: true
+Food option: A
+Has health care: true
+
+
+Ben Larry Puller
+Age: 26
+Gender: M
+Street address: 454 Lincoln
+City: Plains
+State: MO
+Zip code: 65259
+Phone number: 3708759257
+University: University of Virginia
+Student ID: #73230247UX
+Credits Enrolled: 14
+In-state: false
+Late fee assessed: true
+Food option: C
+Has health care: true
+
+
+Benjamin Harvey Watts
+Age: 15
+Gender: M
+Street address: 3370 Harbor
+City: Lincoln
+State: OH
+Zip code: 44622
+Phone number: 2771501282
+University: University of Washington
+Student ID: #12714112OA
+Credits Enrolled: 9
+In-state: true
+Late fee assessed: true
+Food option: B
+Has health care: false
+
+
+Betty Elisabeth Hill
+Age: 25
+Gender: F
+Street address: 3832 First
+City: Danville
+State: DC
+Zip code: 20799
+Phone number: 5057683343
+University: Gonzaga University
+Student ID: #55281021GX
+Credits Enrolled: 9
+In-state: true
+Late fee assessed: true
+Food option: C
+Has health care: true
+
+
+Betty Sally Puller
+Age: 29
+Gender: F
+Street address: 3746 King
+City: Cairo
+State: IL
+Zip code: 62291
+Phone number: 8484570525
+University: University of Virginia
+Student ID: #78246837LY
+Credits Enrolled: 9
+In-state: true
+Late fee assessed: false
+Food option: A
+Has health care: true
+
+
+Cara Missy Jackson
+Age: 23
+Gender: F
+Street address: 1395 River
+City: Madison
+State: PA
+Zip code: 15108
+Phone number: 8511241174
+University: University of California Berkeley
+Student ID: #00109446YL
+Credits Enrolled: 3
+In-state: false
+Late fee assessed: false
+Food option: B
+Has health care: true
+
+
+Carolyn Lorraine Hill
+Age: 27
+Gender: F
+Street address: 1547 Hoover
+City: Buggtown
+State: MN
+Zip code: 55565
+Phone number: 5394568943
+University: Brigham Young University
+Student ID: #55009629II
+Credits Enrolled: 10
+In-state: true
+Late fee assessed: false
+Food option: C
+Has health care: false
+
+
+Cathy Margret Jackson
+Age: 21
+Gender: F
+Street address: 1829 Hoover
+City: Buggtown
+State: DE
+Zip code: 19836
+Phone number: 2379248037
+University: George Mason University
+Student ID: #29338653GR
+Credits Enrolled: 11
+In-state: true
+Late fee assessed: true
+Food option: D
+Has health care: true
+
+
+Charlene Lena Davis
+Age: 19
+Gender: F
+Street address: 1906 Valley
+City: Trinidad
+State: WV
+Zip code: 26270
+Phone number: 1125497228
+University: Oklahoma State University
+Student ID: #04836502IM
+Credits Enrolled: 15
+In-state: false
+Late fee assessed: false
+Food option: C
+Has health care: true
+
+
+Charlene Zelda Lincoln
+Age: 20
+Gender: F
+Street address: 3013 Hamilton
+City: St Petersburg
+State: TX
+Zip code: 75397
+Phone number: 8543458212
+University: George Mason University
+Student ID: #92838282MO
+Credits Enrolled: 20
+In-state: false
+Late fee assessed: true
+Food option: B
+Has health care: false
+
+
+Charlotte Betty King
+Age: 25
+Gender: F
+Street address: 2050 Parsley
+City: Mesada
+State: NY
+Zip code: 10414
+Phone number: 2604289698
+University: Gonzaga University
+Student ID: #89431969UR
+Credits Enrolled: 16
+In-state: true
+Late fee assessed: false
+Food option: A
+Has health care: true
+
+
+Clarence Fred Holiday
+Age: 23
+Gender: M
+Street address: 1948 Hill
+City: Madison
+State: VT
+Zip code: 05495
+Phone number: 2111147485
+University: Harvard College
+Student ID: #95328852SE
+Credits Enrolled: 10
+In-state: false
+Late fee assessed: true
+Food option: D
+Has health care: false
+
+
+Darcey Julie Ash
+Age: 30
+Gender: F
+Street address: 3620 River
+City: Lincoln
+State: AK
+Zip code: 99602
+Phone number: 3716652313
+University: Oklahoma State University
+Student ID: #50409828NV
+Credits Enrolled: 20
+In-state: false
+Late fee assessed: false
+Food option: A
+Has health care: true
+
+
+Dean Dean Grant
+Age: 26
+Gender: M
+Street address: 3449 Grant
+City: Boon
+State: CA
+Zip code: 95193
+Phone number: 5727539733
+University: Brigham Young University
+Student ID: #80066828SE
+Credits Enrolled: 11
+In-state: false
+Late fee assessed: false
+Food option: B
+Has health care: true
+
+
+Dean Edward Williams
+Age: 25
+Gender: M
+Street address: 3366 sixth
+City: Plains
+State: NV
+Zip code: 89340
+Phone number: 1615223858
+University: Gonzaga University
+Student ID: #95265320NI
+Credits Enrolled: 19
+In-state: true
+Late fee assessed: false
+Food option: A
+Has health care: true
+
+
+Delila Julia Miller
+Age: 28
+Gender: F
+Street address: 3585 Seventh
+City: Trinidad
+State: IL
+Zip code: 61424
+Phone number: 1245724470
+University: University of Virginia
+Student ID: #98154996ZY
+Credits Enrolled: 18
+In-state: true
+Late fee assessed: false
+Food option: C
+Has health care: false
+
+
+Edward Danny Puller
+Age: 25
+Gender: M
+Street address: 1492 Parsley
+City: Rockland
+State: TX
+Zip code: 79625
+Phone number: 3415762676
+University: University of Louisiana
+Student ID: #60141958GZ
+Credits Enrolled: 12
+In-state: false
+Late fee assessed: false
+Food option: B
+Has health care: true
+
+
+Elenore Julie Smith
+Age: 26
+Gender: F
+Street address: 1603 Third
+City: Honolulu
+State: MS
+Zip code: 39179
+Phone number: 4556687628
+University: Brigham Young University
+Student ID: #56725890VV
+Credits Enrolled: 18
+In-state: false
+Late fee assessed: true
+Food option: B
+Has health care: false
+
+
+Elisheba Anne Higginbottom
+Age: 15
+Gender: F
+Street address: 603 Main
+City: Danville
+State: MS
+Zip code: 71233
+Phone number: 1698619638
+University: Harvard College
+Student ID: #81781576BV
+Credits Enrolled: 11
+In-state: false
+Late fee assessed: false
+Food option: B
+Has health care: true
+
+
+Ellen Carolyn Hampton
+Age: 19
+Gender: F
+Street address: 1404 First
+City: Bejing
+State: WA
+Zip code: 98267
+Phone number: 3891707601
+University: Gonzaga University
+Student ID: #18140819CS
+Credits Enrolled: 8
+In-state: false
+Late fee assessed: false
+Food option: B
+Has health care: false
+
+
+Enoch Levi Sheperd
+Age: 16
+Gender: M
+Street address: 2979 Third
+City: Washington
+State: ME
+Zip code: 04227
+Phone number: 9664166265
+University: Ohio State University
+Student ID: #25534817ZS
+Credits Enrolled: 4
+In-state: true
+Late fee assessed: true
+Food option: D
+Has health care: true
+
+
+Eugen Chad King
+Age: 15
+Gender: M
+Street address: 3397 Hoover
+City: Cloud
+State: VA
+Zip code: 20113
+Phone number: 5738273359
+University: University of Louisiana
+Student ID: #40070680WM
+Credits Enrolled: 5
+In-state: false
+Late fee assessed: false
+Food option: C
+Has health care: false
+
+
+Eve Mary Poe
+Age: 22
+Gender: F
+Street address: 3889 Ninth
+City: Pleasant
+State: KY
+Zip code: 40337
+Phone number: 3103310001
+University: University of Washington
+Student ID: #54874502SG
+Credits Enrolled: 8
+In-state: false
+Late fee assessed: false
+Food option: B
+Has health care: true
+
+
+Faith Belle Erp
+Age: 28
+Gender: F
+Street address: 2801 Main
+City: Mesada
+State: GA
+Zip code: 30106
+Phone number: 1383277200
+University: University of Washington
+Student ID: #28566121TZ
+Credits Enrolled: 5
+In-state: true
+Late fee assessed: false
+Food option: A
+Has health care: true
+
+
+Fred Gary Ash
+Age: 27
+Gender: M
+Street address: 1311 Valley
+City: Cloud
+State: SC
+Zip code: 29403
+Phone number: 8855083054
+University: University of Louisiana
+Student ID: #72591677OB
+Credits Enrolled: 8
+In-state: false
+Late fee assessed: true
+Food option: B
+Has health care: true
+
+
+Fritz Lex Grant
+Age: 27
+Gender: M
+Street address: 3132 Main
+City: Wooly
+State: NJ
+Zip code: 07079
+Phone number: 8993747622
+University: Gonzaga University
+Student ID: #89451787RD
+Credits Enrolled: 6
+In-state: false
+Late fee assessed: true
+Food option: C
+Has health care: false
+
+
+Genevie Dixie Schuller
+Age: 14
+Gender: F
+Street address: 2999 Washington
+City: Hicksville
+State: VT
+Zip code: 05186
+Phone number: 8862174395
+University: University of Louisiana
+Student ID: #46274136NY
+Credits Enrolled: 16
+In-state: false
+Late fee assessed: true
+Food option: A
+Has health care: false
+
+
+Grace Gwen Schuller
+Age: 17
+Gender: F
+Street address: 3086 Second
+City: Mesada
+State: DC
+Zip code: 20005
+Phone number: 7881957441
+University: Oklahoma State University
+Student ID: #64740647AO
+Credits Enrolled: 6
+In-state: true
+Late fee assessed: true
+Food option: C
+Has health care: true
+
+
+Greg Gad Harrison
+Age: 18
+Gender: M
+Street address: 249 Duck
+City: Berlin
+State: NC
+Zip code: 28381
+Phone number: 1865239190
+University: Ohio State University
+Student ID: #18221580ZI
+Credits Enrolled: 17
+In-state: false
+Late fee assessed: false
+Food option: B
+Has health care: false
+
+
+Harvey Richard Maddison
+Age: 17
+Gender: M
+Street address: 2107 Lincoln
+City: Rockland
+State: CT
+Zip code: 06583
+Phone number: 7622367420
+University: Ohio State University
+Student ID: #23429237YJ
+Credits Enrolled: 8
+In-state: true
+Late fee assessed: true
+Food option: C
+Has health care: false
+
+
+James Eugen Bach
+Age: 24
+Gender: M
+Street address: 1525 Justice
+City: Valley
+State: NV
+Zip code: 89656
+Phone number: 4558304417
+University: University of California Berkeley
+Student ID: #44117698RA
+Credits Enrolled: 5
+In-state: false
+Late fee assessed: false
+Food option: B
+Has health care: false
+
+
+Jane Charlene Fender
+Age: 27
+Gender: F
+Street address: 3928 Ash
+City: Wooly
+State: ID
+Zip code: 83286
+Phone number: 8626112530
+University: Ohio State University
+Student ID: #52169911JQ
+Credits Enrolled: 4
+In-state: true
+Late fee assessed: false
+Food option: A
+Has health care: false
+
+
+Jane Elisabeth Lincoln
+Age: 22
+Gender: F
+Street address: 1615 Hampton
+City: Bagdad
+State: RI
+Zip code: 02801
+Phone number: 5854673448
+University: University of California Berkeley
+Student ID: #10467688RJ
+Credits Enrolled: 14
+In-state: false
+Late fee assessed: true
+Food option: C
+Has health care: true
+
+
+Julie Sariah Hampton
+Age: 18
+Gender: F
+Street address: 651 Oak
+City: Trinidad
+State: NY
+Zip code: 06390
+Phone number: 8022088279
+University: George Mason University
+Student ID: #27674070JF
+Credits Enrolled: 2
+In-state: false
+Late fee assessed: true
+Food option: B
+Has health care: false
+
+
+Kate Ulna Henderson
+Age: 24
+Gender: F
+Street address: 3788 Grant
+City: Cloud
+State: AR
+Zip code: 75502
+Phone number: 1466658585
+University: University of Washington
+Student ID: #85325104CA
+Credits Enrolled: 15
+In-state: true
+Late fee assessed: false
+Food option: A
+Has health care: true
+
+
+Kenneth Abel Schuller
+Age: 30
+Gender: M
+Street address: 2059 Parsley
+City: Plains
+State: VA
+Zip code: 20040
+Phone number: 1104886217
+University: University of Wyoming
+Student ID: #75962212KO
+Credits Enrolled: 2
+In-state: true
+Late fee assessed: false
+Food option: B
+Has health care: false
+
+
+Kenneth Richard Maddison
+Age: 17
+Gender: M
+Street address: 2755 Miller
+City: Cooltown
+State: UT
+Zip code: 84197
+Phone number: 2853109813
+University: Gonzaga University
+Student ID: #25635731ZL
+Credits Enrolled: 5
+In-state: false
+Late fee assessed: true
+Food option: A
+Has health care: false
+
+
+Lena Grace Clemmits
+Age: 17
+Gender: F
+Street address: 2254 Mallard
+City: Pleasant
+State: LA
+Zip code: 70634
+Phone number: 2866524425
+University: University of Wyoming
+Student ID: #14644648JL
+Credits Enrolled: 11
+In-state: true
+Late fee assessed: false
+Food option: B
+Has health care: false
+
+
+Lex Luther Sheperd
+Age: 30
+Gender: M
+Street address: 3684 Walnut
+City: Freetown
+State: MI
+Zip code: 49628
+Phone number: 4161798322
+University: University of Wyoming
+Student ID: #81842940LF
+Credits Enrolled: 8
+In-state: false
+Late fee assessed: false
+Food option: C
+Has health care: true
+
+
+Lorraine Cara Erp
+Age: 15
+Gender: F
+Street address: 741 Hampton
+City: Riyadh
+State: ME
+Zip code: 04299
+Phone number: 2136932119
+University: University of Washington
+Student ID: #41359092ZZ
+Credits Enrolled: 15
+In-state: true
+Late fee assessed: false
+Food option: C
+Has health care: false
+
+
+Luther Ed Hampton
+Age: 18
+Gender: M
+Street address: 1989 Hampton
+City: Dale
+State: PR
+Zip code: 00000
+Phone number: 7481517249
+University: Ohio State University
+Student ID: #72034366HF
+Credits Enrolled: 12
+In-state: false
+Late fee assessed: true
+Food option: D
+Has health care: false
+
+
+Margret Samantha Ash
+Age: 16
+Gender: F
+Street address: 3223 Third
+City: Seoul
+State: AZ
+Zip code: 86417
+Phone number: 3825474375
+University: University of Washington
+Student ID: #25858445CD
+Credits Enrolled: 7
+In-state: false
+Late fee assessed: true
+Food option: C
+Has health care: true
+
+
+Marshal Andy Sheperd
+Age: 29
+Gender: M
+Street address: 3611 Ninth
+City: Bagdad
+State: NJ
+Zip code: 08402
+Phone number: 6984215381
+University: Harvard College
+Student ID: #56419764PU
+Credits Enrolled: 8
+In-state: true
+Late fee assessed: true
+Food option: A
+Has health care: true
+
+
+Millie Anne Hamilton
+Age: 28
+Gender: F
+Street address: 2634 Maddison
+City: Madison
+State: CT
+Zip code: 06425
+Phone number: 2248857464
+University: Brigham Young University
+Student ID: #46292446YB
+Credits Enrolled: 10
+In-state: false
+Late fee assessed: true
+Food option: A
+Has health care: true
+
+
+Millie Genevie Newton
+Age: 14
+Gender: F
+Street address: 1597 Main
+City: Troy
+State: VA
+Zip code: 24541
+Phone number: 6119707092
+University: University of California Berkeley
+Student ID: #21685669JI
+Credits Enrolled: 4
+In-state: false
+Late fee assessed: true
+Food option: C
+Has health care: true
+
+
+Missy Ariana Miller
+Age: 29
+Gender: F
+Street address: 3268 Hill
+City: Madison
+State: AR
+Zip code: 75502
+Phone number: 3599266146
+University: University of Louisiana
+Student ID: #33927002OK
+Credits Enrolled: 7
+In-state: true
+Late fee assessed: true
+Food option: C
+Has health care: false
+
+
+Missy Jane Davis
+Age: 28
+Gender: F
+Street address: 1603 Neutron
+City: Lincoln
+State: UT
+Zip code: 84680
+Phone number: 7965679040
+University: Gonzaga University
+Student ID: #39705018AB
+Credits Enrolled: 5
+In-state: false
+Late fee assessed: true
+Food option: B
+Has health care: true
+
+
+Missy Julie Lincoln
+Age: 24
+Gender: F
+Street address: 2419 sixth
+City: Boon
+State: MD
+Zip code: 20680
+Phone number: 9102722213
+University: University of California Berkeley
+Student ID: #17901222JU
+Credits Enrolled: 13
+In-state: false
+Late fee assessed: false
+Food option: B
+Has health care: false
+
+
+Nathan David Renfield
+Age: 29
+Gender: M
+Street address: 1678 Dale
+City: Trinidad
+State: NM
+Zip code: 88329
+Phone number: 6523128441
+University: Harvard College
+Student ID: #66988784KY
+Credits Enrolled: 2
+In-state: false
+Late fee assessed: false
+Food option: C
+Has health care: false
+
+
+Nathan Edward Poe
+Age: 15
+Gender: M
+Street address: 886 Gibson
+City: Cloud
+State: DC
+Zip code: 20799
+Phone number: 3556005279
+University: University of Washington
+Student ID: #59190947AG
+Credits Enrolled: 19
+In-state: false
+Late fee assessed: false
+Food option: B
+Has health care: false
+
+
+Ned Abraham Harrison
+Age: 20
+Gender: M
+Street address: 1475 Bay
+City: Seattle
+State: ND
+Zip code: 58720
+Phone number: 9374805616
+University: Gonzaga University
+Student ID: #92404036FF
+Credits Enrolled: 5
+In-state: true
+Late fee assessed: true
+Food option: C
+Has health care: false
+
+
+Nevil Ben Gibson
+Age: 29
+Gender: M
+Street address: 3668 Main
+City: Portland
+State: MI
+Zip code: 48633
+Phone number: 4507248079
+University: Ohio State University
+Student ID: #25039532RO
+Credits Enrolled: 2
+In-state: true
+Late fee assessed: false
+Food option: D
+Has health care: false
+
+
+Pat Ed King
+Age: 17
+Gender: M
+Street address: 868 Duck
+City: Washington
+State: MD
+Zip code: 21210
+Phone number: 3185700199
+University: University of Louisiana
+Student ID: #54547125CQ
+Credits Enrolled: 11
+In-state: true
+Late fee assessed: true
+Food option: C
+Has health care: false
+
+
+Pat Enoch Harrison
+Age: 21
+Gender: M
+Street address: 3251 Grant
+City: Dixi
+State: WY
+Zip code: 82851
+Phone number: 1938136962
+University: University of Wyoming
+Student ID: #29416514FO
+Credits Enrolled: 7
+In-state: true
+Late fee assessed: false
+Food option: A
+Has health care: true
+
+
+Patrick Aloysius Potter
+Age: 16
+Gender: M
+Street address: 3866 Neutron
+City: Honolulu
+State: LA
+Zip code: 70991
+Phone number: 2771300400
+University: University of Wyoming
+Student ID: #04564176XC
+Credits Enrolled: 14
+In-state: true
+Late fee assessed: false
+Food option: B
+Has health care: false
+
+
+Patrick Kenneth Peterson
+Age: 15
+Gender: M
+Street address: 3711 Washington
+City: River
+State: ID
+Zip code: 83756
+Phone number: 1425429728
+University: University of Washington
+Student ID: #35600054EX
+Credits Enrolled: 7
+In-state: false
+Late fee assessed: false
+Food option: C
+Has health care: true
+
+
+Percival Nathan Grant
+Age: 16
+Gender: M
+Street address: 551 Justice
+City: Mesada
+State: SD
+Zip code: 57131
+Phone number: 8572569515
+University: Oklahoma State University
+Student ID: #75012498HN
+Credits Enrolled: 2
+In-state: false
+Late fee assessed: false
+Food option: C
+Has health care: false
+
+
+Peter Greg Ohm
+Age: 20
+Gender: M
+Street address: 1694 Tenth
+City: Plains
+State: GA
+Zip code: 39901
+Phone number: 2905144048
+University: University of California Berkeley
+Student ID: #59475182ST
+Credits Enrolled: 4
+In-state: false
+Late fee assessed: false
+Food option: C
+Has health care: false
+
+
+Peter Percy Poe
+Age: 21
+Gender: M
+Street address: 2685 Dale
+City: St Petersburg
+State: NY
+Zip code: 11724
+Phone number: 8939224031
+University: Gonzaga University
+Student ID: #25154839HG
+Credits Enrolled: 13
+In-state: true
+Late fee assessed: true
+Food option: B
+Has health care: false
+
+
+Reed Andy Peterson
+Age: 20
+Gender: M
+Street address: 162 River
+City: Dixon
+State: SD
+Zip code: 57386
+Phone number: 2091030541
+University: University of Washington
+Student ID: #16447921FL
+Credits Enrolled: 15
+In-state: false
+Late fee assessed: true
+Food option: A
+Has health care: false
+
+
+Reed Ben Erp
+Age: 23
+Gender: M
+Street address: 25 Lincoln
+City: Riyadh
+State: WI
+Zip code: 53743
+Phone number: 7239326983
+University: University of Virginia
+Student ID: #63157884CA
+Credits Enrolled: 2
+In-state: false
+Late fee assessed: true
+Food option: B
+Has health care: true
+
+
+Richard Abel Adams
+Age: 23
+Gender: M
+Street address: 1994 Walnut
+City: Cloud
+State: TX
+Zip code: 75268
+Phone number: 9369560280
+University: University of Virginia
+Student ID: #70675563BH
+Credits Enrolled: 8
+In-state: true
+Late fee assessed: false
+Food option: D
+Has health care: false
+
+
+Ricky Ricky Draper
+Age: 21
+Gender: M
+Street address: 2200 Baxter
+City: Bejing
+State: WY
+Zip code: 82236
+Phone number: 6519822965
+University: University of Washington
+Student ID: #01973421NA
+Credits Enrolled: 18
+In-state: true
+Late fee assessed: true
+Food option: B
+Has health care: false
+
+
+Sara Lorraine Fender
+Age: 28
+Gender: F
+Street address: 3376 Fender
+City: Wooly
+State: NM
+Zip code: 87962
+Phone number: 4398799902
+University: University of Wyoming
+Student ID: #21795058KB
+Credits Enrolled: 16
+In-state: true
+Late fee assessed: true
+Food option: A
+Has health care: false
+
+
+Sariah Mary Sheperd
+Age: 23
+Gender: F
+Street address: 103 Duck
+City: Hamilton
+State: VA
+Zip code: 20041
+Phone number: 2043374307
+University: University of Louisiana
+Student ID: #20371697GJ
+Credits Enrolled: 13
+In-state: true
+Late fee assessed: false
+Food option: D
+Has health care: false
+
+
+Sue Cary Marshal
+Age: 26
+Gender: F
+Street address: 813 Neutron
+City: London
+State: LA
+Zip code: 71497
+Phone number: 2449597485
+University: Oklahoma State University
+Student ID: #23554304GP
+Credits Enrolled: 14
+In-state: false
+Late fee assessed: false
+Food option: C
+Has health care: false
+
+
+Wendy Sara Plank
+Age: 15
+Gender: F
+Street address: 1499 Hill
+City: Hicksville
+State: NM
+Zip code: 88166
+Phone number: 1304963570
+University: George Mason University
+Student ID: #56573597HI
+Credits Enrolled: 20
+In-state: false
+Late fee assessed: true
+Food option: C
+Has health care: false
+
+

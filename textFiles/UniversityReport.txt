@@ -1,0 +1,289 @@
+
+				GEORGE MASON UNIVERSITY
+				4400 University Drive
+				Fairfax, Virginia, 22030
+				(598) 765-4321
+
+NAME       	Abbot Ben Holiday          CREDITS  	12
+ADDRESS    	584 Neutron, Boon, AR 75502            
+ADDRESS    	(370) 382-6586
+TUITION    	$    388.76
+LATE FEE   	$      0.00
+INCIDENTAL 	$    251.88
+HEALTH CARE	$    364.80
+MEAL PLAN  	$  4,935.50		   TOTAL 		$ 5,940.94
+
+NAME       	Ariana Rita Erp            CREDITS  	6
+ADDRESS    	3030 Justice, Freetown, DE 19919       
+ADDRESS    	(116) 698-8227
+TUITION    	$    235.34
+LATE FEE   	$      0.00
+INCIDENTAL 	$    125.94
+HEALTH CARE	$    211.20
+MEAL PLAN  	$  3,564.74		   TOTAL 		$ 4,137.22
+
+NAME       	Belle Cathy Poe            CREDITS  	15
+ADDRESS    	1112 Forth, Dale, WV 26620             
+ADDRESS    	(912) 222-1554
+TUITION    	$    388.76
+LATE FEE   	$     58.31
+INCIDENTAL 	$    300.00
+HEALTH CARE	$    456.00
+MEAL PLAN  	$  4,935.50		   TOTAL 		$ 6,138.57
+
+NAME       	Cathy Margret Jackson      CREDITS  	11
+ADDRESS    	1829 Hoover, Buggtown, DE 19836        
+ADDRESS    	(237) 924-8037
+TUITION    	$    235.34
+LATE FEE   	$     35.30
+INCIDENTAL 	$    230.89
+HEALTH CARE	$    334.40
+MEAL PLAN  	$      0.00		   TOTAL 		$ 835.93
+
+NAME       	Charlene Zelda Lincoln     CREDITS  	20
+ADDRESS    	3013 Hamilton, St Petersburg, TX 75397 
+ADDRESS    	(854) 345-8212
+TUITION    	$    300.05
+LATE FEE   	$     45.01
+INCIDENTAL 	$    300.00
+HEALTH CARE	$      0.00
+MEAL PLAN  	$  3,564.74		   TOTAL 		$ 4,209.80
+
+NAME       	Julie Sariah Hampton       CREDITS  	2
+ADDRESS    	651 Oak, Trinidad, NY 06390            
+ADDRESS    	(802) 208-8279
+TUITION    	$    465.44
+LATE FEE   	$     69.82
+INCIDENTAL 	$     41.98
+HEALTH CARE	$      0.00
+MEAL PLAN  	$  3,564.74		   TOTAL 		$ 4,141.98
+
+NAME       	Wendy Sara Plank           CREDITS  	20
+ADDRESS    	1499 Hill, Hicksville, NM 88166        
+ADDRESS    	(130) 496-3570
+TUITION    	$    300.05
+LATE FEE   	$     45.01
+INCIDENTAL 	$    300.00
+HEALTH CARE	$      0.00
+MEAL PLAN  	$  2,974.35		   TOTAL 		$ 3,619.41
+
+				GEORGE MASON UNIVERSITY TOTALS
+
+NUMBER OF STUDENTS	7
+INSTATE           	2
+OUT OF STATE      	5
+MEAL PLAN		3 Meals a day	2 $ 9,871.00
+         		2 Meals a day	3 $10,694.22
+         		1 Meals a day	1 $ 2,974.35
+			FOOD SUB TOTAL	  $ 23,539.57
+TUITION  		$  2,313.74
+LATE FEE 		$    253.45
+
+				GONZAGA UNIVERSITY
+				502 E Boone
+				Spokane, WA, 99258
+				(098) 765-4321
+
+NAME       	Betty Elisabeth Hill       CREDITS  	9
+ADDRESS    	3832 First, Danville, DC 20799         
+ADDRESS    	(505) 768-3343
+TUITION    	$    235.34
+LATE FEE   	$     35.30
+INCIDENTAL 	$    188.91
+HEALTH CARE	$    316.80
+MEAL PLAN  	$  2,974.35		   TOTAL 		$ 3,750.70
+
+NAME       	Charlotte Betty King       CREDITS  	16
+ADDRESS    	2050 Parsley, Mesada, NY 10414         
+ADDRESS    	(260) 428-9698
+TUITION    	$    200.12
+LATE FEE   	$      0.00
+INCIDENTAL 	$    300.00
+HEALTH CARE	$      0.00
+MEAL PLAN  	$  4,935.50		   TOTAL 		$ 5,435.62
+
+NAME       	Dean Edward Williams       CREDITS  	19
+ADDRESS    	3366 sixth, Plains, NV 89340           
+ADDRESS    	(161) 522-3858
+TUITION    	$    150.25
+LATE FEE   	$      0.00
+INCIDENTAL 	$    300.00
+HEALTH CARE	$    380.00
+MEAL PLAN  	$  4,935.50		   TOTAL 		$ 5,765.75
+
+NAME       	Ellen Carolyn Hampton      CREDITS  	8
+ADDRESS    	1404 First, Bejing, WA 98267           
+ADDRESS    	(389) 170-7601
+TUITION    	$    465.44
+LATE FEE   	$      0.00
+INCIDENTAL 	$    167.92
+HEALTH CARE	$      0.00
+MEAL PLAN  	$  3,564.74		   TOTAL 		$ 4,198.10
+
+NAME       	Fritz Lex Grant            CREDITS  	6
+ADDRESS    	3132 Main, Wooly, NJ 07079             
+ADDRESS    	(899) 374-7622
+TUITION    	$    465.44
+LATE FEE   	$     69.82
+INCIDENTAL 	$    125.94
+HEALTH CARE	$      0.00
+MEAL PLAN  	$  2,974.35		   TOTAL 		$ 3,635.55
+
+NAME       	Kenneth Richard Maddison   CREDITS  	5
+ADDRESS    	2755 Miller, Cooltown, UT 84197        
+ADDRESS    	(285) 310-9813
+TUITION    	$    465.44
+LATE FEE   	$     69.82
+INCIDENTAL 	$    104.95
+HEALTH CARE	$      0.00
+MEAL PLAN  	$  4,935.50		   TOTAL 		$ 5,575.71
+
+NAME       	Missy Jane Davis           CREDITS  	5
+ADDRESS    	1603 Neutron, Lincoln, UT 84680        
+ADDRESS    	(796) 567-9040
+TUITION    	$    465.44
+LATE FEE   	$     69.82
+INCIDENTAL 	$    104.95
+HEALTH CARE	$    176.00
+MEAL PLAN  	$  3,564.74		   TOTAL 		$ 4,380.95
+
+NAME       	Ned Abraham Harrison       CREDITS  	5
+ADDRESS    	1475 Bay, Seattle, ND 58720            
+ADDRESS    	(937) 480-5616
+TUITION    	$    235.34
+LATE FEE   	$     35.30
+INCIDENTAL 	$    104.95
+HEALTH CARE	$      0.00
+MEAL PLAN  	$  2,974.35		   TOTAL 		$ 3,349.94
+
+NAME       	Peter Percy Poe            CREDITS  	13
+ADDRESS    	2685 Dale, St Petersburg, NY 11724     
+ADDRESS    	(893) 922-4031
+TUITION    	$    200.12
+LATE FEE   	$     30.02
+INCIDENTAL 	$    272.87
+HEALTH CARE	$      0.00
+MEAL PLAN  	$  3,564.74		   TOTAL 		$ 4,067.75
+
+				GONZAGA UNIVERSITY TOTALS
+
+NUMBER OF STUDENTS	9
+INSTATE           	5
+OUT OF STATE      	4
+MEAL PLAN		3 Meals a day	3 $14,806.50
+         		2 Meals a day	3 $10,694.22
+         		1 Meals a day	3 $ 8,923.05
+			FOOD SUB TOTAL	  $ 34,423.77
+TUITION  		$  2,882.93
+LATE FEE 		$    310.07
+
+				HARVARD COLLEGE
+				86 Brattle Street
+				Cambridge, MA, 02138
+				(798) 765-4321
+
+NAME       	Bart Aloysius Lincoln      CREDITS  	7
+ADDRESS    	3895 River, Mountain View, ND 58138    
+ADDRESS    	(424) 496-0202
+TUITION    	$    235.34
+LATE FEE   	$      0.00
+INCIDENTAL 	$    146.93
+HEALTH CARE	$      0.00
+MEAL PLAN  	$  4,935.50		   TOTAL 		$ 5,317.77
+
+NAME       	Clarence Fred Holiday      CREDITS  	10
+ADDRESS    	1948 Hill, Madison, VT 05495           
+ADDRESS    	(211) 114-7485
+TUITION    	$    465.44
+LATE FEE   	$     69.82
+INCIDENTAL 	$    209.90
+HEALTH CARE	$      0.00
+MEAL PLAN  	$      0.00		   TOTAL 		$ 745.16
+
+NAME       	Elisheba Anne Higginbottom CREDITS  	11
+ADDRESS    	603 Main, Danville, MS 71233           
+ADDRESS    	(169) 861-9638
+TUITION    	$    465.44
+LATE FEE   	$      0.00
+INCIDENTAL 	$    230.89
+HEALTH CARE	$    334.40
+MEAL PLAN  	$  3,564.74		   TOTAL 		$ 4,595.47
+
+NAME       	Marshal Andy Sheperd       CREDITS  	8
+ADDRESS    	3611 Ninth, Bagdad, NJ 08402           
+ADDRESS    	(698) 421-5381
+TUITION    	$    235.34
+LATE FEE   	$     35.30
+INCIDENTAL 	$    167.92
+HEALTH CARE	$    281.60
+MEAL PLAN  	$  4,935.50		   TOTAL 		$ 5,655.66
+
+NAME       	Nathan David Renfield      CREDITS  	2
+ADDRESS    	1678 Dale, Trinidad, NM 88329          
+ADDRESS    	(652) 312-8441
+TUITION    	$    465.44
+LATE FEE   	$      0.00
+INCIDENTAL 	$     41.98
+HEALTH CARE	$      0.00
+MEAL PLAN  	$  2,974.35		   TOTAL 		$ 3,481.77
+
+				HARVARD COLLEGE TOTALS
+
+NUMBER OF STUDENTS	5
+INSTATE           	2
+OUT OF STATE      	3
+MEAL PLAN		3 Meals a day	2 $ 9,871.00
+         		2 Meals a day	1 $ 3,564.74
+         		1 Meals a day	1 $ 2,974.35
+			FOOD SUB TOTAL	  $ 16,410.09
+TUITION  		$  1,867.00
+LATE FEE 		$    105.12
+
+				JAMES MADISON UNIVERSITY
+				800 South Main Street
+				Harrisonburg, Virginia, 22807
+				(598) 765-4321
+
+				JAMES MADISON UNIVERSITY TOTALS
+
+NUMBER OF STUDENTS	0
+INSTATE           	0
+OUT OF STATE      	0
+MEAL PLAN		3 Meals a day	0 $     0.00
+         		2 Meals a day	0 $     0.00
+         		1 Meals a day	0 $     0.00
+			FOOD SUB TOTAL	  $      0.00
+TUITION  		$      0.00
+LATE FEE 		$      0.00
+
+				OHIO STATE UNIVERSITY
+				1234 South St
+				Columbus, OH, 43210
+				(123) 456-7890
+
+NAME       	Enoch Levi Sheperd         CREDITS  	4
+ADDRESS    	2979 Third, Washington, ME 04227       
+ADDRESS    	(966) 416-6265
+TUITION    	$    150.00
+LATE FEE   	$     37.50
+INCIDENTAL 	$     40.00
+HEALTH CARE	$    160.00
+MEAL PLAN  	$      0.00		   TOTAL 		$ 387.50
+
+NAME       	Greg Gad Harrison          CREDITS  	17
+ADDRESS    	249 Duck, Berlin, NC 28381             
+ADDRESS    	(186) 523-9190
+TUITION    	$    450.00
+LATE FEE   	$      0.00
+INCIDENTAL 	$    150.00
+HEALTH CARE	$      0.00
+MEAL PLAN  	$  4,000.00		   TOTAL 		$ 4,600.00
+
+NAME       	Harvey Richard Maddison    CREDITS  	8
+ADDRESS    	2107 Lincoln, Rockland, CT 06583       
+ADDRESS    	(762) 236-7420
+TUITION    	$    150.00
+LATE FEE   	$     37.50
+INCIDENTAL 	$     80.00
+HEALTH CARE	$      0.00
+MEAL PLAN  	$  3,000.00		   TOTAL

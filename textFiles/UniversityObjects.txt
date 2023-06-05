@@ -1,0 +1,260 @@
+University: George Mason University
+Street address: 4400 University Drive
+City: Fairfax
+State: Virginia
+Zip: 22030
+Phone: 5987654321
+In-state tuition...
+1-11 credits: 235.34
+12-18 credits: 200.12
+19+ credits: 150.25
+Out-of-state tuition...
+1-11 credits: 465.44
+12-18 credits: 388.76
+19+ credits: 300.05
+Meal plans...
+Meal plan A: 4935.5
+Meal plan B: 3564.74
+Meal plan C: 2974.35
+Healthcare...
+1-10 credits: 35.2
+11-15 credits: 30.4
+16+ credits: 20.0
+Late fee (% of tuition): 0.15
+Incidental fees per credit: 20.99
+Maximum incidental fees: 300.0
+
+University: Gonzaga University
+Street address: 502 E Boone
+City: Spokane
+State: WA
+Zip: 99258
+Phone: 0987654321
+In-state tuition...
+1-11 credits: 235.34
+12-18 credits: 200.12
+19+ credits: 150.25
+Out-of-state tuition...
+1-11 credits: 465.44
+12-18 credits: 388.76
+19+ credits: 300.05
+Meal plans...
+Meal plan A: 4935.5
+Meal plan B: 3564.74
+Meal plan C: 2974.35
+Healthcare...
+1-10 credits: 35.2
+11-15 credits: 30.4
+16+ credits: 20.0
+Late fee (% of tuition): 0.15
+Incidental fees per credit: 20.99
+Maximum incidental fees: 300.0
+
+University: Harvard College
+Street address: 86 Brattle Street
+City: Cambridge
+State: MA
+Zip: 02138
+Phone: 7987654321
+In-state tuition...
+1-11 credits: 235.34
+12-18 credits: 200.12
+19+ credits: 150.25
+Out-of-state tuition...
+1-11 credits: 465.44
+12-18 credits: 388.76
+19+ credits: 300.05
+Meal plans...
+Meal plan A: 4935.5
+Meal plan B: 3564.74
+Meal plan C: 2974.35
+Healthcare...
+1-10 credits: 35.2
+11-15 credits: 30.4
+16+ credits: 20.0
+Late fee (% of tuition): 0.15
+Incidental fees per credit: 20.99
+Maximum incidental fees: 300.0
+
+University: James Madison University
+Street address: 800 South Main Street
+City: Harrisonburg
+State: Virginia
+Zip: 22807
+Phone: 5987654321
+In-state tuition...
+1-11 credits: 235.34
+12-18 credits: 200.12
+19+ credits: 150.25
+Out-of-state tuition...
+1-11 credits: 465.44
+12-18 credits: 388.76
+19+ credits: 300.05
+Meal plans...
+Meal plan A: 4935.5
+Meal plan B: 3564.74
+Meal plan C: 2974.35
+Healthcare...
+1-10 credits: 35.2
+11-15 credits: 30.4
+16+ credits: 20.0
+Late fee (% of tuition): 0.15
+Incidental fees per credit: 20.99
+Maximum incidental fees: 300.0
+
+University: Ohio State University
+Street address: 1234 South St
+City: Columbus
+State: OH
+Zip: 43210
+Phone: 1234567890
+In-state tuition...
+1-11 credits: 150.0
+12-18 credits: 100.0
+19+ credits: 50.0
+Out-of-state tuition...
+1-11 credits: 500.0
+12-18 credits: 450.0
+19+ credits: 400.0
+Meal plans...
+Meal plan A: 5000.0
+Meal plan B: 4000.0
+Meal plan C: 3000.0
+Healthcare...
+1-10 credits: 40.0
+11-15 credits: 35.0
+16+ credits: 30.0
+Late fee (% of tuition): 0.25
+Incidental fees per credit: 10.0
+Maximum incidental fees: 150.0
+
+University: Oklahoma State University
+Street address: 700 N Greenwood Ave
+City: Tulsa
+State: OK
+Zip: 74106
+Phone: 2234567890
+In-state tuition...
+1-11 credits: 150.0
+12-18 credits: 100.0
+19+ credits: 50.0
+Out-of-state tuition...
+1-11 credits: 500.0
+12-18 credits: 450.0
+19+ credits: 400.0
+Meal plans...
+Meal plan A: 5000.0
+Meal plan B: 4000.0
+Meal plan C: 3000.0
+Healthcare...
+1-10 credits: 40.0
+11-15 credits: 35.0
+16+ credits: 30.0
+Late fee (% of tuition): 0.25
+Incidental fees per credit: 10.0
+Maximum incidental fees: 150.0
+
+University: University of Louisiana
+Street address: 700 University Avenue
+City: Monroe
+State: LA
+Zip: 71209
+Phone: 4987654321
+In-state tuition...
+1-11 credits: 235.34
+12-18 credits: 200.12
+19+ credits: 150.25
+Out-of-state tuition...
+1-11 credits: 465.44
+12-18 credits: 388.76
+19+ credits: 300.05
+Meal plans...
+Meal plan A: 4935.5
+Meal plan B: 3564.74
+Meal plan C: 2974.35
+Healthcare...
+1-10 credits: 35.2
+11-15 credits: 30.4
+16+ credits: 20.0
+Late fee (% of tuition): 0.15
+Incidental fees per credit: 20.99
+Maximum incidental fees: 300.0
+
+University: University of Virginia
+Street address: 190 McCormick Road
+City: Charlottesville
+State: VA
+Zip: 22903
+Phone: 6987654321
+In-state tuition...
+1-11 credits: 235.34
+12-18 credits: 200.12
+19+ credits: 150.25
+Out-of-state tuition...
+1-11 credits: 465.44
+12-18 credits: 388.76
+19+ credits: 300.05
+Meal plans...
+Meal plan A: 4935.5
+Meal plan B: 3564.74
+Meal plan C: 2974.35
+Healthcare...
+1-10 credits: 35.2
+11-15 credits: 30.4
+16+ credits: 20.0
+Late fee (% of tuition): 0.15
+Incidental fees per credit: 20.99
+Maximum incidental fees: 300.0
+
+University: University of Washington
+Street address: 1600 Northeast Ave
+City: Seattle
+State: WA
+Zip: 88940
+Phone: 1987654321
+In-state tuition...
+1-11 credits: 235.34
+12-18 credits: 200.12
+19+ credits: 150.25
+Out-of-state tuition...
+1-11 credits: 465.44
+12-18 credits: 388.76
+19+ credits: 300.05
+Meal plans...
+Meal plan A: 4935.5
+Meal plan B: 3564.74
+Meal plan C: 2974.35
+Healthcare...
+1-10 credits: 35.2
+11-15 credits: 30.4
+16+ credits: 20.0
+Late fee (% of tuition): 0.15
+Incidental fees per credit: 20.99
+Maximum incidental fees: 300.0
+
+University: University of Wyoming
+Street address: 1000 E University Ave
+City: Laramie
+State: WY
+Zip: 82071
+Phone: 3077661121
+In-state tuition...
+1-11 credits: 235.34
+12-18 credits: 200.12
+19+ credits: 150.25
+Out-of-state tuition...
+1-11 credits: 500.0
+12-18 credits: 450.0
+19+ credits: 400.0
+Meal plans...
+Meal plan A: 5000.0
+Meal plan B: 4000.0
+Meal plan C: 3000.0
+Healthcare...
+1-10 credits: 40.0
+11-15 credits: 35.0
+16+ credits: 30.0
+Late fee (% of tuition): 0.25
+Incidental fees per credit: 10.0
+Maximum incidental fees: 150.0
+
